@@ -1,0 +1,1 @@
+# Sistema-de-Recupera-o-de-Informa-es-usando-VectorDB-e-RetrievalQA
