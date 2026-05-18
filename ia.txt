@@ -1,0 +1,13 @@
+Inteligência Artificial é uma área da computação focada na criação de sistemas inteligentes.
+
+Machine Learning permite que sistemas aprendam a partir de dados.
+
+Deep Learning utiliza redes neurais profundas para resolver problemas complexos.
+
+Redes neurais artificiais são inspiradas no funcionamento do cérebro humano.
+
+Os embeddings transformam textos em vetores numéricos para permitir busca semântica.
+
+FAISS é uma biblioteca utilizada para busca vetorial eficiente.
+
+RetrievalQA permite recuperar informações relevantes e responder perguntas utilizando documentos.
